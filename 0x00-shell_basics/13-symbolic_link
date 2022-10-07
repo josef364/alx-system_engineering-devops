@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l _ls_
+chown -h root:root _ls_
